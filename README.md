@@ -1,4 +1,4 @@
-# AZ-900-Azure-Fundamentals-Study-Guid
+# AZ-900: Microsoft Azure Fundamentals Study Guide
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4)
 
 ![AZ-900](https://img.shields.io/badge/Certification-AZ--900-blue)
@@ -79,45 +79,30 @@ This repository contains my personal study notes, practice questions, learning r
 
 - Azure Advisor
 
-- Azure Cost Management
-### 1. Cloud Concepts
-
-- Cloud computing
-
-- Public / Private / Hybrid cloud
-
-- IaaS / PaaS / SaaS
-
-- CapEx vs OpEx
-
-### 2. Azure Architecture & Services
-
-- Azure Regions
-
-- Availability Zones
-
-- Resource Groups
-
-- Azure Compute
-
-- Azure Storage
-
-- Azure Networking
-
-### 3. Azure Management & Governance
-
-- Azure Portal
-
-- Azure Policy
-
-- RBAC
-
-- Azure Monitor
-
-- Azure Advisor
-
+- Azure Cost
+- 
 ## 📝 Study Notes
+### What is Cloud Computing?
 
+Cloud computing is the delivery of computing services such as
+
+compute, storage, networking, databases and software over the internet.
+
+### IaaS
+
+Infrastructure as a Service provides virtualized computing resources
+
+such as virtual machines, storage and networking.
+
+### PaaS
+
+Platform as a Service provides a managed platform for developing,
+
+deploying and running applications.
+
+### SaaS
+
+Software as a Service provides ready-to-use applications over the internet.
 ## 🧪 Practice Questions
 Practice questions will be added as I progress through the AZ-900 preparation.
 
